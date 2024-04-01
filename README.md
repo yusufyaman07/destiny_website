@@ -13,9 +13,9 @@ The site is designed to be conveniently displayed on mobile, tablet and desktop 
 
 # Technologies
 
--- HTML: Used to create the page structure.
--- CSS: Used for styling and responsive design.
--- JavaScript: Used for dynamic content and interactive features.
+- HTML: Used to create the page structure.
+- CSS: Used for styling and responsive design.
+- JavaScript: Used for dynamic content and interactive features.
 
 # Preview:
 ![destiny](https://github.com/yusufyaman07/destiny_website/assets/148998418/88fb4dc5-ccf9-4645-bc05-639ed6bf4124)
